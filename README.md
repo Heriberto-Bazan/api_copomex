@@ -168,5 +168,3 @@ LOG_LEVEL=debug
 ```
 
 ---
-
-**¡Listo! 🎉 Tu proyecto COPOMEX está configurado y funcionando.**
